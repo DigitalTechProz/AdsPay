@@ -10,7 +10,7 @@
             "askForPassword": true,
             "driver": "MySQL",
             "name": "adspay",
-            "database": "getpaid4_marketing",
+            "database": " pro_ads",
             "username": "root",
             "connectionTimeout": 60
         }
