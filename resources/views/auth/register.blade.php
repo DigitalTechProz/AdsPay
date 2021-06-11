@@ -109,7 +109,7 @@
                 <div class="copyright text-center">
                     &copy;
                     <script>document.write(new Date().getFullYear())</script>,
-                    <span>Developed by <a href="#" target="_blank">Digital Tech Proz</a></span>
+                    <span>Developed by <a href="https://github.com/DigitalTechProz/AdsPay">{{config('app.dev_name')}}</a></span>
                 </div>
             </div>
             <div class="col-lg-8 col-sm-12">

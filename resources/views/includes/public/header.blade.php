@@ -7,7 +7,7 @@
                 <!-- Logo -->
                 <div class="col-xl-2 col-lg-2 col-md-1">
                     <div class="logo">
-                        <a href="/"><img src="adptc/assets/img/logo-pro-ads1.png" alt="{{config('app.name')}}"></a>
+                        <a href="/"><img src="adptc/assets/img/logo-pro-ads1.png" alt=""></a>
                     </div>
                 </div>
                 <div class="col-xl-8 col-lg-8 col-md-8">

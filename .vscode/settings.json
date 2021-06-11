@@ -9,8 +9,8 @@
             "port": 3306,
             "askForPassword": true,
             "driver": "MySQL",
-            "name": "localhost",
-            "database": "pro_ads",
+            "name": "adspay",
+            "database": "getpaid4_marketing",
             "username": "root",
             "connectionTimeout": 60
         }

@@ -148,7 +148,7 @@
                 <div class="copyright text-center">
                     &copy;
                     <script>document.write(new Date().getFullYear())</script>,
-                    <span>Developed by <a href="#" target="_blank">Digital Tech Proz</a></span>
+                    <span>Developed by <a href="#" target="_blank">{{config('app.dev_name')}}</a></span>
                 </div>
             </div>
 
