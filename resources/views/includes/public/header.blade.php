@@ -25,10 +25,10 @@
                                         <li><a href="single-blog.html">Blog Details</a></li>
                                     </ul>
                                 </li>
-                                <li><a href="#">Pages</a>
+                               <!-- <li><a href="#">Pages</a>
                                     <ul class="submenu">
                                         <li><a href="elements.html">Element</a></li>
-                                    </ul>
+                                    </ul> -->
                                 </li>
                                 <li><a href="#">Register/Login</a>
                                     <ul class="submenu">
